@@ -1,0 +1,7 @@
+export const PoppinsRegular = 'Poppins-Regular'
+export const PoppinsMedium = 'Poppins-Medium'
+export const AvenirHeavy = 'Avenir-Heavy'
+export const GilroyBold = 'Gilroy-Bold'
+export const AvenirMedium = 'Avenir-Medium'
+export const PoppinsSemiBold = 'Poppins-SemiBold'
+export const Avenir = 'Avenir'

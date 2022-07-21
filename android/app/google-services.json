@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722454451939",
+    "project_id": "wholesalerr-be",
+    "storage_bucket": "wholesalerr-be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722454451939:android:26523051d282bef9f3d7d6",
+        "android_client_info": {
+          "package_name": "com.wholesalerrapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722454451939-1bdiv49hlnn446up5q6uqg5efumnnb6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wholesalerrapp",
+            "certificate_hash": "c4533b289b465fd30db698eb60bd8b15367bf408"
+          }
+        },
+        {
+          "client_id": "722454451939-eqrb5bfop8oubiovoikoouc7o97f56i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5HYrpNbbM90g0SZ_C0D8qkb6A2Y_O4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722454451939-eqrb5bfop8oubiovoikoouc7o97f56i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
